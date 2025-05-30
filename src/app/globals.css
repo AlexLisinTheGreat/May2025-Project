@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #F4EEE4;
+  --color-primary: #101E29;
+
+
+    /* font-family: var(--lato), sans-serif;
+
+  
+  .font-libre {
+    font-family: var(--libre), serif;
+  } */
+
+  --font-lato: var(--lato);
+  --font-libre: var(--libre);
+
+}
