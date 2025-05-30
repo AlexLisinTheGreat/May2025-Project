@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Lato, Libre_Caslon_Text } from "next/font/google";
+import { Lato, Libre_Caslon_Text } from "next/font/google";
 import "./globals.css";
 
 const lato = Lato({
