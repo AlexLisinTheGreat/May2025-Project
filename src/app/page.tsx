@@ -82,7 +82,7 @@ export default function Home() {
 							style={{
 								filter: "drop-shadow(5px 5px 5px #222)"
 							}}
-							src="/LadyJustice.png"
+							src="/May2025-Project/LadyJustice.png"
 							className=" h-full object-cover"
 						/>
 					</div>
